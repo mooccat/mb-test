@@ -12,13 +12,18 @@
     "@deck.gl/core": "^9.0.14",
     "@deck.gl/layers": "^9.0.14",
     "@hirelofty/vue_deckgl": "^1.2.1",
+    "@tresjs/cientos": "^3.9.0",
+    "@tresjs/core": "^3.9.0",
     "deck.gl": "^9.0.14",
     "mapbox-gl": "^3.3.0",
+    "three": "^0.164.1",
     "vue": "^3.4.21"
   },
   "devDependencies": {
+    "@types/three": "^0.164.0",
     "@vitejs/plugin-vue": "^5.0.4",
     "typescript": "^5.2.2",
+    "unplugin-auto-import": "^0.17.6",
     "vite": "^5.2.0",
     "vue-tsc": "^2.0.6"
   }
